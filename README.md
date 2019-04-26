@@ -1,5 +1,6 @@
 # QuestRecommend
 Follow-up Question Recommendations for Knowledge Inquiry Systems
+
 *Term Project for CSE 583 - Pattern Recognition and Machine Learning Class*
 
 QA systems are build to answer questions, but sometimes the users don’t really know what they want to know; providing the right answer is not always feasible and/or enough. 
