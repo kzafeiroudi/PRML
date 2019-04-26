@@ -10,3 +10,6 @@ The objective of this project: by leveraging machine learning techniques, a QA s
 In a sense, implement a **recommender system for follow-up questions**: suggest new questions to the user that might add to the already acquired knowledge.
 
 Recommender systems are pretty common when there is a user profile available with stored information about user preferences, e.g. movie recommendations. In our case we have **no preference data** –we want to make recommendations by relying entirely on content, meaning the **input question**.
+
+
+* Download the `quora.csv` file from [here](https://drive.google.com/file/d/1F2_9Mpviiw_ZNighwzslQaPDXh2CVUf_/view?usp=sharing).
