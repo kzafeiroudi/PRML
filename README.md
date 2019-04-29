@@ -13,3 +13,5 @@ Recommender systems are pretty common when there is a user profile available wit
 
 
 * Download the `quora.csv` file from [here](https://drive.google.com/file/d/1F2_9Mpviiw_ZNighwzslQaPDXh2CVUf_/view?usp=sharing).
+* Download the `full_questions.csv` file from [here](https://drive.google.com/file/d/1_H2WR6dZqlUsVvB4ywFGMgVD983tivzd/view?usp=sharing).
+* Download the `noun_chunks.csv` file from [here](https://drive.google.com/file/d/1-9Mvk4kupdXh0xa_6Pt_I_dRU9Q5fEIL/view?usp=sharing).
